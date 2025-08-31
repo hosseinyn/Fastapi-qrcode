@@ -2,7 +2,7 @@
 
 A qrcode generator , reader restful api with python fast api.
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi)](https://github.com/hosseinyn)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,docker)](https://github.com/hosseinyn)
 
 
 ### Features 
@@ -20,7 +20,7 @@ A qrcode generator , reader restful api with python fast api.
 3- Run the application using uvicorn :
 `uvicorn main:app`
 
-
+4- You can run with `Dockerfile` , too.
 
 
 
